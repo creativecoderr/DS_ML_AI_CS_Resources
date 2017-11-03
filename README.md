@@ -83,3 +83,4 @@
 52. Hemant Kakkar - Work on IPL
 53. Watch Ted videos on Haptic feedback technology
 54. Artificial Intelligence A modern approach(Russel and Norvig)
+55. The AI 100 - CB Insights - https://www.cbinsights.com/research-ai-100
