@@ -1,4 +1,4 @@
-# DS_ML_AI_CS_Resources List
+## DS_ML_AI_CS_Resources List
 
 ## List of Books, People, Blogs, Tools, Movies related to Data Science, Machine Learning, Artificial Intelligence, Computer Science and Life.
 
@@ -66,10 +66,14 @@
 42. XMind - Mind Mapping Software
 43. Remaking my voice - Roger Ebert - Ted Talk on Speech Synthesis 
     - https://www.ted.com/talks/roger_ebert_remaking_my_voice
-44. Loughran-McDonald Sentiment Word Lists - Used in NLP
+44. Loughran-McDonald Sentiment Word Lists
 45. Recursive Deep Models for Semantic Compisitionality Over a Sentiment Treebank - Paper on NLP
 46. Foundations of Statistical Natural Language Processing - Christopher Manning
     - http://ics.upjs.sk/~pero/web/documents/pillar/Manning_Schuetze_StatisticalNLP.pdf
 47. SentiWordNet - s a lexical resource for opinion mining. SentiWordNet assigns to each synset of WordNet three sentiment scores: positivity, negativity, objectivity. 
     - http://sentiwordnet.isti.cnr.it/
 48. Vocabulary Knowledge: Human ratings and automated measures (Studies in Bilingualism) - Scott Jarvis and Michael Daller
+49. Beuatiful Soup - For web scraping via python
+50. Selenium - Web automation and web scraping - Javascript
+51. http://sci-hub.bz/ - Get research paper for free.
+52. Hemant Kakkar - Work on IPL
