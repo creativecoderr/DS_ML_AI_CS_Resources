@@ -2,6 +2,9 @@
 
 ## List of Books, People, Blogs, Tools, Movies related to Data Science, Machine Learning, Artificial Intelligence, Computer Science and Life.
 
+### Updated repository will be maintained on the Github repository -  
+ - https://github.com/creativecoderr/DS_ML_AI_CS_Resources/blob/master/README.md
+
 1. Skin in the Game: The Underlying Matrix of Daily Life - Nassim Nicholas Taleb
 2. Future Babble: Why Pundits Are Hedgehogs and Foxes Know Best - Daniel Gardner 
 3. The Wisdom of Crowds: Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations - James Surowiecki
@@ -78,3 +81,5 @@
 50. Selenium - Web automation and web scraping - Javascript
 51. http://sci-hub.bz/ - Get research paper for free.
 52. Hemant Kakkar - Work on IPL
+53. Watch Ted videos on Haptic feedback technology
+54. Artificial Intelligence A modern approach(Russel and Norvig)
