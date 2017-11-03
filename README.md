@@ -2,7 +2,6 @@
 
 ## List of Books, People, Blogs, Tools, Movies related to Data Science, Machine Learning, Artificial Intelligence, Computer Science and Life.
 
-
 1. Skin in the Game: The Underlying Matrix of Daily Life - Nassim Nicholas Taleb
 2. Future Babble: Why Pundits Are Hedgehogs and Foxes Know Best - Daniel Gardner 
 3. The Wisdom of Crowds: Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations - James Surowiecki
@@ -68,3 +67,9 @@
 43. Remaking my voice - Roger Ebert - Ted Talk on Speech Synthesis 
     - https://www.ted.com/talks/roger_ebert_remaking_my_voice
 44. Loughran-McDonald Sentiment Word Lists - Used in NLP
+45. Recursive Deep Models for Semantic Compisitionality Over a Sentiment Treebank - Paper on NLP
+46. Foundations of Statistical Natural Language Processing - Christopher Manning
+    - http://ics.upjs.sk/~pero/web/documents/pillar/Manning_Schuetze_StatisticalNLP.pdf
+47. SentiWordNet - s a lexical resource for opinion mining. SentiWordNet assigns to each synset of WordNet three sentiment scores: positivity, negativity, objectivity. 
+    - http://sentiwordnet.isti.cnr.it/
+48. Vocabulary Knowledge: Human ratings and automated measures (Studies in Bilingualism) - Scott Jarvis and Michael Daller
