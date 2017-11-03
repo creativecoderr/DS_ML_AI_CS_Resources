@@ -1,7 +1,9 @@
-# DS_ML_AI_CS_Resources
+# DS_ML_AI_CS_Resources List
+
 ## List of Books, People, Blogs, Tools, Movies related to Data Science, Machine Learning, Artificial Intelligence, Computer Science and Life.
 
-1. The Predictiors Dilema.
+
+1. Skin in the Game: The Underlying Matrix of Daily Life - Nassim Nicholas Taleb
 2. Future Babble: Why Pundits Are Hedgehogs and Foxes Know Best - Daniel Gardner 
 3. The Wisdom of Crowds: Why the Many Are Smarter Than the Few and How Collective Wisdom Shapes Business, Economies, Societies and Nations - James Surowiecki
     - When an opinion of large number of independent thinkers in a group is taken, then the resultant outcome of the group matches that of the expert.
