@@ -86,6 +86,6 @@
 55. The AI 100 - CB Insights - https://www.cbinsights.com/research-ai-100
     - Blog - https://www.cbinsights.com/research/
 56. Pattern Recognition and Machine Learning - Christopher Bishop
-    - http://users.isr.ist.utl.pt/~wurmd/Livros/school/
+    - http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf
 57. Principal Component Analysis - Multidisciplinary Applications
     - https://www.intechopen.com/books/principal-component-analysis-multidisciplinary-applications
