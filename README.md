@@ -78,7 +78,7 @@
     - http://sentiwordnet.isti.cnr.it/
 48. Vocabulary Knowledge: Human ratings and automated measures (Studies in Bilingualism) - Scott Jarvis and Michael Daller
 49. Beuatiful Soup - For web scraping via python
-50. Selenium - Web automation and web scraping - Javascript
+50. Selenium - Web automation and web scraping - Javascript 
 51. http://sci-hub.bz/ - Get research paper for free.
 52. Hemant Kakkar - Work on IPL
 53. Watch Ted videos on Haptic feedback technology
@@ -89,3 +89,6 @@
     - http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf
 57. Principal Component Analysis - Multidisciplinary Applications
     - https://www.intechopen.com/books/principal-component-analysis-multidisciplinary-applications
+58. Machine Learning: The Art and Science of Algorithms that Make Sense of Data - Peter Flach 
+59. Machine Learning in Python: Essential Techniques for Predictive Analysis - Michael Bowles
+60. Hands-On Machine Learning with Scikit-Learn and TensorFlow - Aurélien Géron
