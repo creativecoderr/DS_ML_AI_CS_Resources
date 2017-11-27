@@ -92,3 +92,5 @@
 58. Machine Learning: The Art and Science of Algorithms that Make Sense of Data - Peter Flach 
 59. Machine Learning in Python: Essential Techniques for Predictive Analysis - Michael Bowles
 60. Hands-On Machine Learning with Scikit-Learn and TensorFlow - Aurélien Géron
+61. Data Mining: Concepts and Techniques, 3rd ed. - Jiawei Han, Micheline Kamber and Jian Pei
+    - http://myweb.sabanciuniv.edu/rdehkharghani/files/2016/02/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf
