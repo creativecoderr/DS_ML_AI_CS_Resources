@@ -96,3 +96,7 @@
     - http://hanj.cs.illinois.edu/bk3/
     - http://myweb.sabanciuniv.edu/rdehkharghani/files/2016/02/The-Morgan-Kaufmann-Series-in-Data-Management-Systems-Jiawei-Han-Micheline-Kamber-Jian-Pei-Data-Mining.-Concepts-and-Techniques-3rd-Edition-Morgan-Kaufmann-2011.pdf
 62. Python Machine Learning Book codes - https://github.com/rasbt/python-machine-learning-book
+63. DS Books -
+- Phython for Data Analysis
+- DS from Scratch
+64. Machine Learning Course - Coursera - Andrew Ng
