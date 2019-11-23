@@ -100,3 +100,4 @@
 - Phython for Data Analysis
 - DS from Scratch
 64. Machine Learning Course - Coursera - Andrew Ng
+65. Guide to being a Data Scientist - AnalyticsVidhya - https://www.analyticsvidhya.com/blog/2019/01/learning-path-data-scientist-machine-learning-2019/
